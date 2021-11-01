@@ -139,7 +139,7 @@
       "meta:xdmField": "xdm:opportunityComponents",
       "tagNumber": 11,
       "items": {
-        "$ref": "obj3316051981415855.schema.json"
+        "$ref": "obj6995900819140588.schema.json"
       }
     },
     "campaignID": {

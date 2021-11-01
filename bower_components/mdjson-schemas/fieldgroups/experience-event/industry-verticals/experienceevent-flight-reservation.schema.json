@@ -40,7 +40,7 @@
           "meta:xdmField": "xdm:flightReservations",
           "tagNumber": 1,
           "items": {
-            "$ref": "obj8092007050722818.schema.json"
+            "$ref": "obj5973519137770409.schema.json"
           }
         },
         "cancellation": {

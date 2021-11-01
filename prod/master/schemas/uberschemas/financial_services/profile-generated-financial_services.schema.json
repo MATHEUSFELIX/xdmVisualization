@@ -1343,7 +1343,7 @@
           "meta:xdmField": "xdm:creditScores",
           "tagNumber": 3,
           "items": {
-            "$ref": "obj9174225345124947.schema.json"
+            "$ref": "obj01423504667736819.schema.json"
           }
         },
         "employmentStatus": {

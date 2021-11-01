@@ -38,7 +38,7 @@
           "meta:xdmField": "xdm:lodgingReservations",
           "tagNumber": 1,
           "items": {
-            "$ref": "obj6923208614676906.schema.json"
+            "$ref": "obj9400422500136427.schema.json"
           }
         },
         "cancellation": {

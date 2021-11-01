@@ -1302,7 +1302,7 @@
           "meta:xdmField": "xdm:pointsExpiration",
           "tagNumber": 4,
           "items": {
-            "$ref": "obj2851462236640139.schema.json"
+            "$ref": "obj8829357641528206.schema.json"
           }
         },
         "pointsRedeemed": {

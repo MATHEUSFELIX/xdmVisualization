@@ -84,7 +84,7 @@
       "meta:xdmField": "xdm:accountComponents",
       "tagNumber": 5,
       "items": {
-        "$ref": "obj39415658114922847.schema.json"
+        "$ref": "obj11113023754974471.schema.json"
       }
     },
     "accountName": {
